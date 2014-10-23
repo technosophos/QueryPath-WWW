@@ -52,9 +52,10 @@ will probably need to use the [2.1 version](https://github.com/technosophos/quer
 
 ## High Praises
 
-<img src="/assets/querypath-200x333.png">
 > "an essential part of the Drupal and PHP communities"
 > - [The Google Blog](http://googleblog.blogspot.com/2010/08/sixth-annual-summer-of-code-flexes-some.html)
 
 QueryPath has been used around the world for everything from legacy migrations
 to dynamic page generation to posting today's news to screens in bus stations!
+
+<img src="/assets/querypath-200x333.png">
