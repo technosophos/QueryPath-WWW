@@ -4,10 +4,8 @@ title: "QueryPath: Find your way"
 tagline: 
 ---
 {% include JB/setup %}
-<div class="alert">
-<strong>Notice</strong> We are in the middle of recovering from a
-catastrophic failure. We apologize for the mess.
-</div>
+
+<p>QueryPath is an XML and HTML DOM manipulation tool. You can think of it as jQuery for PHP.<p>
 
 <img src="/assets/querypath-200x333.png">
 > "an essential part of the Drupal and PHP communities"
