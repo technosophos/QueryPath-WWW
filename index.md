@@ -8,6 +8,9 @@ tagline:
 <img src="/assets/querypath-200x333.png">
 <p>QueryPath is an XML and HTML DOM manipulation tool. You can think of it as jQuery for PHP.</p>
 
+> "an essential part of the Drupal and PHP communities"
+> - [The Google Blog](http://googleblog.blogspot.com/2010/08/sixth-annual-summer-of-code-flexes-some.html)
+
 ## Install It!
 
 Install it with [Composer](http://getcomposer.org) or grab a copy from the 
@@ -45,7 +48,8 @@ $dom = $html5->loadHTML($html);
 qp($dom, '#row2>td:nth(3)')->text();
 ```
 
-> "an essential part of the Drupal and PHP communities"
-> - [The Google Blog](http://googleblog.blogspot.com/2010/08/sixth-annual-summer-of-code-flexes-some.html)
-  
+## The Way-back Machine
+
+If you're still using a version of PHP that does not support namespaces, you
+will probably need to use the [2.1 version](https://github.com/technosophos/querypath/archive/2.1.2.zip).
 
