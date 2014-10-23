@@ -5,8 +5,8 @@ tagline:
 ---
 {% include JB/setup %}
 
-<p>QueryPath is an XML and HTML DOM manipulation tool. You can think of it as jQuery for PHP.</p>
-
+QueryPath is an XML and HTML DOM manipulation PHP library.
+You can think of it as jQuery for the server.
 
 ## Install It!
 
@@ -44,6 +44,9 @@ $html5 = new HTML5();
 $dom = $html5->loadHTML($html);
 qp($dom, '#row2>td:nth(3)')->text();
 ```
+
+Check out the [API documentation](http://api.querypath.org/docs/) or take a
+look at some [examples](https://github.com/technosophos/querypath/tree/master/examples).
 
 ## The Way-back Machine
 
